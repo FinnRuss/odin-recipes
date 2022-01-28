@@ -1,0 +1,26 @@
+.recipe-name{
+    font-size: 40px;
+    text-align: center;
+    color: darkgreen;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-block-end: 40px;
+}
+
+body{
+    font-family: Helvetica, sans-serif;
+}
+.ingred-list{
+    color:rgb(204, 136, 47)
+}
+
+.bottom-links{
+    text-align: center;
+    font-size: small;
+    line-height: .1;
+    margin-top: 30px;
+}
